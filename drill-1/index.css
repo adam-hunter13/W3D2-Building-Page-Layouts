@@ -1,0 +1,23 @@
+#top-bar{
+    height:100px;
+    background-color: rgb(81, 80, 80)
+
+}
+
+#middle-box{
+    height:600px;
+    width: 700px;
+    margin: auto;
+    background-color: rgb(255, 254, 254)
+}
+
+#bottom-bar{
+    height:100px;
+    background-color: rgb(36, 36, 36);
+    width: 700px;
+    margin:auto
+}
+
+body{
+    background-color:rgb(181, 181, 181)
+}

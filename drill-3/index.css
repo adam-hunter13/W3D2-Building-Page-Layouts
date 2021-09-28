@@ -1,0 +1,51 @@
+#grey_box {
+    background-color: rgb(222, 220, 220);
+    height: 100px;
+    width:fit;
+}
+
+#blue_box{
+    background-color: rgb(23, 147, 196);
+    height: 80px;
+    width: 80px;
+    margin-top: -90px;
+    margin-left: 10px
+}
+
+#white_box {
+    height: 300px;
+    width:fit;
+    background-color: white;
+    margin-top:10px
+    
+}
+
+#blue_box2 {
+    background-color: rgb(23, 147, 196);
+    height: 140px;
+    width:fit;
+    margin_top:100px;
+}
+#teal_box {
+    background-color:teal;
+    height: 140px;
+    width:fit;
+    margin_top:100px;
+}
+#green_box {
+    background-color: rgb(107, 225, 107);
+    height: 140px;
+    width:fit;
+    margin_top:100px;
+}
+#yellow_box {
+    background-color: rgb(249, 249, 32);
+    height: 140px;
+    width:fit;
+    margin_top:100px;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
